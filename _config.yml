@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: codepractice
+title: Code Practice
 email: mingjun.geng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Improve coding skills.
-baseurl: "/codepractice" # the subpath of your site, e.g. /blog
-url: "https://mingjungeng.github.io/codepractice" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/code-practice" # the subpath of your site, e.g. /blog
+url: "https://mingjungeng.github.io/code-practice" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sooofeve
 github_username:  mingjungeng
 
